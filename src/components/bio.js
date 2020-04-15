@@ -57,7 +57,7 @@ const Bio = () => {
         }}
       />
       <p style={{ marginTop: `auto`, marginBottom: `auto` }}>
-        Written by <strong>{author.name}</strong> from{" "}
+        Written by <strong>{author.name}</strong>
         <br></br>
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>Twitter</a>
