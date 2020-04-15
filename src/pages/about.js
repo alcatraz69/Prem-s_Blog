@@ -20,7 +20,7 @@ const AboutPage = ({ data, location }) => {
         <h2 style={{ marginTop: `0` }}>Prem Kantikar</h2>
         <p>
           I'm a Web designer / developer based in Bangalore. I Love to create
-          visually applealig things with a creative touch. Currently working at
+          visually appealing things with a creative touch. Currently working at
           Infosys as a System Engineer. I completed my B.Tech from NMIT
           Banglore.
         </p>
