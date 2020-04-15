@@ -8,7 +8,7 @@ module.exports = {
     description: `I post the journey of my projects.`,
     siteUrl: `https://22boxesgatsbyuno.netlify.com/`,
     social: {
-      twitter: `twentytwoboxes`,
+      twitter: `prem_kantikar_`,
     },
   },
   plugins: [
