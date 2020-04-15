@@ -1,5 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
+import pic2 from "../../content/assets/pic2.jpeg"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
@@ -10,7 +11,13 @@ const AboutPage = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO title="About" />
       <div style={{ marginTop: `30px`, fontFamily: `Montserrat` }}>
-        <h2>Prem Kantikar</h2>
+          <img
+          style={{ width: `200px`, borderRadius: `50%` }}
+          className="about-img"
+          src={pic2}
+          alt=""
+        />
+        <h2 style={{ marginTop: `0` }}>Prem Kantikar</h2>
         <p>
           I'm a Web designer / developer based in Bangalore. I Love to create
           visually applealig things with a creative touch. Currently working at
