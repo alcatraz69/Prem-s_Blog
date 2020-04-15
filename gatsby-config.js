@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `22Boxes Template Uno`,
+    title: `Prem's Blog`,
     author: {
-      name: `Gagandeep Singh`,
+      name: `Prem Kantikar`,
       summary: `22boxes.com`,
     },
-    description: `22Boxes Gatsby template Uno`,
+    description: `I post the journey of my projects.`,
     siteUrl: `https://22boxesgatsbyuno.netlify.com/`,
     social: {
       twitter: `twentytwoboxes`,
