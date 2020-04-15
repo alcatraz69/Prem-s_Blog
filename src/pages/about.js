@@ -1,6 +1,5 @@
 import React from "react"
 import { graphql } from "gatsby"
-import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
@@ -9,7 +8,6 @@ const AboutPage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <Bio />
       <SEO title="About" />
       <div style={{ marginTop: `30px`, fontFamily: `Montserrat` }}>
         <h2>Prem Kantikar</h2>
