@@ -1,0 +1,4 @@
+hi there, demo blog
+Given your design requires the fonts in your app to have some specific font, this is how you use some custom fonts while developing your app.
+
+This is better done at the start of the project, otherwise you’re looking at a lot of refactoring.
