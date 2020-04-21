@@ -16,9 +16,11 @@ One of these protocols is called TCP/IP (Transmisson control protocol/Internet p
 
 The format of the IP address is :
 <br/>
+<br/>
  <img src="ipv4.png">
 
 This new IP address version namely IPV6 is being deployed to fulfill the need for more Internet addresses. It was aimed to resolve issues which are associated with IPv4. With 128-bit address space, it allows 340 undecillion unique address space. IPv6 also called IPng (Internet Protocol next generation).
+<br/>
 <br/>
 <img src="ipv4.png">
 
@@ -50,5 +52,8 @@ HTTP RESPONSE:
 The Get request is sent along with version and host to be communicated with and the response sends the version and HTTP status code and message along with content type and some more information.
 
 Some of the HTTP status codes and their messages are:
+<br/>
+<br/>
 <img src="status codes.png">
+<br/>
 For more details on Status codes refer: (https://httpstatuses.com/)
