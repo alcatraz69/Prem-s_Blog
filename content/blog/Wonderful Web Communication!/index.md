@@ -15,10 +15,16 @@ When the devices send or receive something over the internet it is done based on
 One of these protocols is called TCP/IP (Transmisson control protocol/Internet protocol). Each device on the internet has an address known as IP Address.
 
 The format of the IP address is :
+<br/>
+ <img src="ipv4.png">
 
-This new IP address version is being deployed to fulfill the need for more Internet addresses. It was aimed to resolve issues which are associated with IPv4. With 128-bit address space, it allows 340 undecillion unique address space. IPv6 also called IPng (Internet Protocol next generation).
+This new IP address version namely IPV6 is being deployed to fulfill the need for more Internet addresses. It was aimed to resolve issues which are associated with IPv4. With 128-bit address space, it allows 340 undecillion unique address space. IPv6 also called IPng (Internet Protocol next generation).
+<br/>
+<img src="ipv4.png">
 
 Any package or information sent or received by a device can be in any form like email, webpage, file etc. Each of these are necessary to be identified. They have a designated port number.  Some of the services and their port numbers are listed below.
+<br/>
+<img src="port.png">
 
 When someone sends something over the internet, along with the IP address the port number is also sent.
 Ex: 1.2.3.4 : 80
@@ -44,4 +50,5 @@ HTTP RESPONSE:
 The Get request is sent along with version and host to be communicated with and the response sends the version and HTTP status code and message along with content type and some more information.
 
 Some of the HTTP status codes and their messages are:
-
+<img src="status codes.png">
+For more details on Status codes refer: (https://httpstatuses.com/)
