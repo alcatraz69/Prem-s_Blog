@@ -11,6 +11,7 @@ Ever wonderd how the communication bewteen computers and other devices over the 
 <br/>
 <br/>
                                        <img src="computer.png">
+                                       <br/>
                                        <img src="ftp.jpg">
                                        
 <br/>
@@ -45,14 +46,15 @@ When we type some URL it sends an request to the server or some device. But each
 The HTTP request and reponse looks something like :
 
 HTTP REQUEST:
-                 GET/HTTP/1.1
-                 Host: www.google.com
-                 …
+<br/>
+                 GET/HTTP/1.1 <br/>
+                 Host: www.google.com <br/>
+                 … <br/>
 
-HTTP RESPONSE:
-                 HTTP/1.1 200 OK
-                 Content-Type: text/html
-                 …
+HTTP RESPONSE: <br/>
+                 HTTP/1.1 200 OK <br/>
+                 Content-Type: text/html <br/>
+                 … <br/>
                  
 The Get request is sent along with version and host to be communicated with and the response sends the version and HTTP status code and message along with content type and some more information.
 
