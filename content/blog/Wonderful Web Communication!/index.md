@@ -16,8 +16,8 @@ Ever wonderd how the communication bewteen computers and other devices over the 
                                        
 <br/>
 <br/>
-When the devices send or receive something over the internet it is done based on some set of protocols/basic rules to follow that decides how these devices should be communicating.
-One of these protocols is called TCP/IP (Transmisson control protocol/Internet protocol). Each device on the internet has an address known as IP Address.
+When the devices send or receive something over the internet it is done based on some set of protocols/basic rules to follow that decides how these devices should be communicating. These protocols dictate what each computer must do to transmit data, when to transmit data, how to transmit that data. It also states how to receive data in the same manner. If the rules are not followed, the computer can't connect to another computer, nor send and receive data between other computers.
+- One of these protocols is called TCP/IP (Transmisson control protocol/Internet protocol). Each device on the internet has an address known as IP Address.
 
 The format of the IP address is :
 <br/>
@@ -34,7 +34,7 @@ Any package or information sent or received by a device can be in any form like 
 <br/>
 <img src="port.png">
 
-When someone sends something over the internet, along with the IP address the port number is also sent.
+- When someone sends something over the internet, along with the IP address the port number is also sent.
 Ex: 1.2.3.4 : 80
 
 When we type some URL it sends an request to the server or some device. But each device is recognized using IP address and not the URL so how does the device get the IP address from the URL? To understand this we need to learn something called as DNS (Domain Name System). DNS is a method of mapping the URL to its corresponding IP address. Once DNS has converted the URL into an IP address, the routers on the Internet will know how to route your TCP/IP packet.
