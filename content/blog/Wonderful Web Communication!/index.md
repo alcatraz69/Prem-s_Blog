@@ -16,7 +16,7 @@ Ever wonderd how the communication bewteen computers and other devices over the 
                                        
 <br/>
 <br/>
-When the devices send or receive something over the internet it is done based on some set of protocols/basic rules to follow that decides how these devices should be communicating. These protocols dictate what each computer must do to transmit data, when to transmit data, how to transmit that data. It also states how to receive data in the same manner. If the rules are not followed, the computer can't connect to another computer, nor send and receive data between other computers. <br/>
+When the devices send or receive something over the internet it is done based on some set of protocols / basic rules to follow that decides how these devices should be communicating. These protocols dictate what each computer must do to transmit data, when to transmit data, how to transmit that data. It also states how to receive data in the same manner. If the rules are not followed, the computer can't connect to another computer, nor send and receive data between other computers. <br/>
 One of these protocols is called TCP/IP (Transmisson control protocol/Internet protocol). Each device on the internet has an address known as IP Address.
 
 The format of the IP address is :
@@ -39,19 +39,19 @@ Ex: 1.2.3.4 : 80
 
 When we type some URL it sends an request to the server or some device. But each device is recognized using IP address and not the URL so how does the device get the IP address from the URL? To understand this we need to learn something called as DNS (Domain Name System). DNS is a method of mapping the URL to its corresponding IP address. Once DNS has converted the URL into an IP address, the routers on the Internet will know how to route your TCP/IP packet.
 
-> > The client makes a HTTP (Hyper Text Transfer Protocol ) request that is served up by the server and sends a response back. HTTP is related to what is being communicated i.e content of the request and content of the response. 
+> > The client makes a **HTTP** (Hyper Text Transfer Protocol ) request that is served up by the server and sends a response back. HTTP is related to what is being communicated i.e content of the request and content of the response. 
 
-> > A similar abbreviation, HTTPS means Hyper Text Transfer Protocol Secure. Basically, it is the secure version of HTTP. Communications between the browser and website are encrypted by Transport Layer Security (TLS), or its predecessor, Secure Sockets Layer (SSL).
+> > A similar abbreviation, **HTTPS** means (Hyper Text Transfer Protocol Secure). Basically, it is the secure version of HTTP. Communications between the browser and website are encrypted by Transport Layer Security (TLS), or its predecessor, Secure Sockets Layer (SSL).
 
 The HTTP request and reponse looks something like :
 
-HTTP REQUEST:
+**HTTP REQUEST:**
 <br/>
                  GET/HTTP/1.1 <br/>
                  Host: www.google.com <br/>
                  … <br/>
 
-HTTP RESPONSE: <br/>
+**HTTP RESPONSE:** <br/>
                  HTTP/1.1 200 OK <br/>
                  Content-Type: text/html <br/>
                  … <br/>
