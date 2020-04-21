@@ -5,7 +5,7 @@ slug: zap
 date: "2015-05-01T22:12:03.284Z"
 description: "Micro project management"
 category: Android
-link: 
+link: https://www.google.com/
 ---
 
 > [Play Store]
