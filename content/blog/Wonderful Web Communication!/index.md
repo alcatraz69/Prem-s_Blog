@@ -9,7 +9,10 @@ tags: ["Javascript", "Web Protocols"]
 
 Ever wonderd how the communication bewteen computers and other devices over the internet takes place?
 <br/>
+<br/>
                                        <img src="computer.png">
+                                       
+<br/>
 <br/>
 When the devices send or receive something over the internet it is done based on some set of protocols/basic rules to follow that decides how these devices should be communicating.
 One of these protocols is called TCP/IP (Transmisson control protocol/Internet protocol). Each device on the internet has an address known as IP Address.
@@ -25,6 +28,7 @@ This new IP address version namely IPV6 is being deployed to fulfill the need fo
 <img src="ipv4.png">
 
 Any package or information sent or received by a device can be in any form like email, webpage, file etc. Each of these are necessary to be identified. They have a designated port number.  Some of the services and their port numbers are listed below.
+<br/>
 <br/>
 <img src="port.png">
 
