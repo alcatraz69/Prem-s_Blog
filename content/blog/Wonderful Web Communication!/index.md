@@ -2,7 +2,7 @@
 template: post
 title: Wonderful Web Communication!
 slug: Web-communication
-date: "2020-01-09T23:46:37.121Z"
+date: "2020-04-21T23:46:37.121Z"
 category: Web
 tags: ["Javascript", "Web Protocols"]
 ---
@@ -11,7 +11,7 @@ Ever wonderd how the communication bewteen computers and other devices over the 
 <br/>
 <br/>
                                        <img src="computer.png">
-                                       <img src="ftp.png">
+                                       <img src="ftp.jpg">
                                        
 <br/>
 <br/>
