@@ -2,7 +2,7 @@
 template: post
 title: What's JAM stack?
 slug: whats-jam-stack
-date: "2020-01-06T23:46:37.121Z"
+date: "2020-04-012T23:46:37.121Z"
 category: Javascript
 tags: ["Javascript"]
 ---
