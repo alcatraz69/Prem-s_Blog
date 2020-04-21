@@ -8,7 +8,7 @@ category: Android
 link: 
 ---
 
-> [Play Store]()
+> [Play Store]
 
 Easy and productive way to manage your personal projects.
 From day to day Todos to full blown passion projects.
