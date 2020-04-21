@@ -11,6 +11,7 @@ Ever wonderd how the communication bewteen computers and other devices over the 
 <br/>
 <br/>
                                        <img src="computer.png">
+                                       <img src="ftp.png">
                                        
 <br/>
 <br/>
@@ -25,7 +26,7 @@ The format of the IP address is :
 This new IP address version namely IPV6 is being deployed to fulfill the need for more Internet addresses. It was aimed to resolve issues which are associated with IPv4. With 128-bit address space, it allows 340 undecillion unique address space. IPv6 also called IPng (Internet Protocol next generation).
 <br/>
 <br/>
-<img src="ipv4.png">
+<img src="ipv6.png">
 
 Any package or information sent or received by a device can be in any form like email, webpage, file etc. Each of these are necessary to be identified. They have a designated port number.  Some of the services and their port numbers are listed below.
 <br/>
@@ -60,4 +61,4 @@ Some of the HTTP status codes and their messages are:
 <br/>
 <img src="status codes.png">
 <br/>
-For more details on Status codes refer: (https://httpstatuses.com/)
+For more details on Status codes refer: https://httpstatuses.com/
