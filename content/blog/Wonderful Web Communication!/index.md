@@ -16,7 +16,7 @@ Ever wonderd how the communication bewteen computers and other devices over the 
                                        
 <br/>
 <br/>
-When the devices send or receive something over the internet it is done based on some set of protocols/basic rules to follow that decides how these devices should be communicating. These protocols dictate what each computer must do to transmit data, when to transmit data, how to transmit that data. It also states how to receive data in the same manner. If the rules are not followed, the computer can't connect to another computer, nor send and receive data between other computers.
+When the devices send or receive something over the internet it is done based on some set of protocols/basic rules to follow that decides how these devices should be communicating. These protocols dictate what each computer must do to transmit data, when to transmit data, how to transmit that data. It also states how to receive data in the same manner. If the rules are not followed, the computer can't connect to another computer, nor send and receive data between other computers. <br/>
 - One of these protocols is called TCP/IP (Transmisson control protocol/Internet protocol). Each device on the internet has an address known as IP Address.
 
 The format of the IP address is :
