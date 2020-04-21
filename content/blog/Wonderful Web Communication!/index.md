@@ -9,6 +9,8 @@ tags: ["Javascript", "Web Protocols"]
 
 Ever wonderd how the communication bewteen computers and other devices over the internet takes place?
 <br/>
+<img src="computer.png">
+<br/>
 When the devices send or receive something over the internet it is done based on some set of protocols/basic rules to follow that decides how these devices should be communicating.
 One of these protocols is called TCP/IP (Transmisson control protocol/Internet protocol). Each device on the internet has an address known as IP Address.
 
