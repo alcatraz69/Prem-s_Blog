@@ -10,7 +10,7 @@ tags: ["Javascript", "Web Protocols"]
 Ever wonderd how the communication bewteen computers and other devices over the internet takes place?
 <br/>
 <br/>
-                                       <img src="computer.png">
+                                       <img src="pc.png">
                                        <br/>
                                        <img src="ftp.jpg">
                                        
