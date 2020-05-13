@@ -1,2 +1,2 @@
 This is my personal blog site!
-[Go to sigt](https://premkantikarblog.netlify.app/)
+[Go to site](https://premkantikarblog.netlify.app/)
