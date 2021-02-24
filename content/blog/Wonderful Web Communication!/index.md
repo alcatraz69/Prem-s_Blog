@@ -2,7 +2,7 @@
 template: post
 title: Wonderful Web Communication!
 slug: Web-communication
-date: "2020-04-21T23:46:37.121Z"
+date: "2021-02-20T23:46:37.121Z"
 category: Web
 tags: ["Javascript", "Web Protocols"]
 ---
