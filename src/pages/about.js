@@ -1,6 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
-import pic2 from "../../content/assets/pic2.jpeg"
+import pic3 from "../../content/assets/pic3.jpeg"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
@@ -14,7 +14,7 @@ const AboutPage = ({ data, location }) => {
           <img
           style={{ width: `200px`, borderRadius: `50%` }}
           className="about-img"
-          src={pic2}
+          src={pic3}
           alt=""
         />
         <h2 style={{ marginTop: `0` }}>Prem Kantikar</h2>
