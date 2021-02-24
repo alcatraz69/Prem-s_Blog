@@ -1,6 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
-import pic3 from "../../content/assets/pic3.jpeg"
+import pic3 from "../../content/assets/pic3.jpg"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
