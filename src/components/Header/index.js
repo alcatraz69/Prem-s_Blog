@@ -37,13 +37,6 @@ class Header extends React.Component {
                 </Link>
               </h1>
             </li>
-            <li className="nav-li">
-              <h1 className="li-h1" style={workLinkStyle}>
-                <Link className="li-link" to={`/work`}>
-                  Work
-                </Link>
-              </h1>
-            </li>
             <li
               style={{
                 float: "left",
