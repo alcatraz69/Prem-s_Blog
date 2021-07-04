@@ -19,10 +19,8 @@ const AboutPage = ({ data, location }) => {
         />
         <h2 style={{ marginTop: `0` }}>Prem Kantikar</h2>
         <p>
-          I'm a Web designer / developer based in Bangalore. I Love to create
-          visually appealing things with a creative touch. Currently working at
-          Infosys as a System Engineer. I completed my B.Tech from NMIT
-          Banglore.
+          I'm a Bangalore-based software engineer who specializes in building (and occasionally designing) exceptional digital experiences. 
+          Currently, I'm working on Full Stack Projects at NeogCamp focused on building accessible, visually appealing Web apps.
         </p>
         Checkout my work at{" "}
         <a href="https://github.com/alcatraz69" target="blank">
